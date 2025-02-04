@@ -3,6 +3,6 @@ Some pros of agile development are its enviroment that creates immense flexibili
 ability to create a continuous feedback loop due to continuos collaboration. Some cons include a potential lack of documentation
 and also potential project oversights with features being added easilty through the project process.
 
-b. The Scrum Master is more in charge of the process of the project, ensuring that Scrum practices are followed and
-workflow is as smooth as possible for the team. The Product Owner is responsible for the outline of the actual product and
-the vision and success of the project.
+b. The Scrum Master is in charge of all scrum related tasks. For example, JIRA tooling, facilitating sprints,
+and meetings. The Product Owner on the other hand sets the direction for the team, handes
+release management and stakeholder management.
