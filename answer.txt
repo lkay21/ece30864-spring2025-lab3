@@ -6,3 +6,17 @@ and also potential project oversights with features being added easilty through 
 b. The Scrum Master is in charge of all scrum related tasks. For example, JIRA tooling, facilitating sprints,
 and meetings. The Product Owner on the other hand sets the direction for the team, handes
 release management and stakeholder management.
+
+c.  The three meetings are the Sprint Planning Meeting, the Daily Scrum/Standup Meeting and the Sprint Retrospective Meeting.
+
+The Sprint Planning Meeting Includes:
+- Determines what to complete in the upcoming sprint
+- Move stories in sprint scope from backlog to current sprint
+
+Dail Scrum/Standup Meeting Includes:
+- Short meeting that happens every day of the sprint
+- Team members discuss work completed and wkr plan for day
+
+Sprint Retrospective Meeting:
+- Occurs at the end of the sprint
+- Discuss work complete and move incomplete work to backlog
