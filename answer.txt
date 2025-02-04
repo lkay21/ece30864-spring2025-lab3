@@ -1,1 +1,4 @@
-
+a. 
+Some pros of agile development are its enviroment that creates immense flexibility in team work as well as its
+ability to create a continuous feedback loop due to continuos collaboration. Some cons include a potential lack of documentation
+and also potential project oversights with features being added easilty through the project process.
