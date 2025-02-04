@@ -20,3 +20,8 @@ Dail Scrum/Standup Meeting Includes:
 Sprint Retrospective Meeting:
 - Occurs at the end of the sprint
 - Discuss work complete and move incomplete work to backlog
+
+d. Task: A unit of work that can be tracked through a workflow (bug to an epic)
+   Story: Software system requirement that is expressed in a few short sentences
+   Epic: Captures a large body of work that can be broked down into several smaller stories
+   Bug: Smallest unit of work, impedes progress in a sprint
